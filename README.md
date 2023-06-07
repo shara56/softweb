@@ -287,9 +287,7 @@ Publish the website in the given URL.
 ## OUTPUT:
 ![k](https://github.com/shara56/softweb/assets/113497104/d329d6d2-5488-49bc-b12c-ecefe3255a54)
 ![k1](https://github.com/shara56/softweb/assets/113497104/8b0e81f6-d3e1-4581-8ea7-9824f71989cd)
-![k2](https://github.com/shara56/softweb/assets/113497104/b5d3c347-9f03-495f-96bc-ecac345bf957)
-## SERVER OUTPUT:
-![k3](https://github.com/shara56/softweb/assets/113497104/9a3f1a5a-8c1d-49f3-891b-3fccccc97bbc)
+
 ## HTML VALIDATOR:
 ![k4](https://github.com/shara56/softweb/assets/113497104/7489d03d-5b99-44f1-b5e8-3bc3bed76d06)
 
